@@ -1,7 +1,8 @@
-<div align="center">
-# Hi there 👋
+## Welcome to my Github!
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="50%"/>
 
 I'm Tommy, a Full-Stack Web Developer. I enjoy learning languages and frameworks like React, as well as solving logical problems in Node.js and Postgres.
 
