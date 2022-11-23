@@ -2,10 +2,9 @@
 
 ## Welcome to my Github!
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" max-width="70%"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="70%"/>
 
 <br/>
-<br>
 
 <p align="left">
 I'm Tommy, a Full-Stack Web Developer. I enjoy learning languages and frameworks like React, as well as solving logical problems in Node.js and Postgres.
