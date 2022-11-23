@@ -2,11 +2,17 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="50%"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" max-width="70%"/>
 
+<br/>
+
+<p align="left">
 I'm Tommy, a Full-Stack Web Developer. I enjoy learning languages and frameworks like React, as well as solving logical problems in Node.js and Postgres.
+</p>
 
+<p align="left">
 What I love about programming is that there is always something to learn or improve on.
+</p>
 
 </br>
 
