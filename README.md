@@ -2,7 +2,7 @@
 
 ## Welcome to my Github!
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="70%"/>
+<img src="https://github.com/TommyTranT/TommyTranT/blob/main/Tommy%20Tran.png?raw=true"/>
 
 </br>
 </br>
