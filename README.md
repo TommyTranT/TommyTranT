@@ -50,8 +50,6 @@ What I love about programming is that there is always something to learn or impr
 </p>         
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TommyTranT)](https://github.com/anuraghazra/github-readme-stats)
-
 <p >
 
 ## Lets connect!
